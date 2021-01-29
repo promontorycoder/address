@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Address Verifier
+Categories=GTK;GNOME;UtilitY;
+Exec=/home/user/path to address.py
+Icon=/home/user/path to address.png
+Path=/home/user/path to address.py
+Terminal=false
